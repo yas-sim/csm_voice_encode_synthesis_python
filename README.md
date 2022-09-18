@@ -9,8 +9,8 @@ Some of the YAMAHA FM sound devices support this feature, and several game used 
 |`csm_synthesis.ipynb`|reads a CSM data file and synthesis an audio file from the CSM data|
 
 ### Audio samples:
-[apollo11-original](./resources/apollo11_launch.wav)  
-[apollo11-csm](./resources/apollo11_launch_out.wav)
+[apollo11-original](https://github.com/yas-sim/csm_voice_encode_synthesis_python/blob/main/resources/apollo11_launch.wav?raw=true)  
+[apollo11-csm](https://github.com/yas-sim/csm_voice_encode_synthesis_python/blob/main/resources/apollo11_launch_out.wav?raw=true)
 
 ### Memo:  
 Convert audio data into mono/32Kbps wav format data.
