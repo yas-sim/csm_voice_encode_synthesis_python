@@ -5,8 +5,8 @@ Some of the YAMAHA FM sound devices support this feature, and several game used 
 
 |program|description|
 |-|-|
-|`csm_encoding.ipynb`|reads an audio file and generates a CSM data file.|
-|`csm_synthesis.ipynb`|reads a CSM data file and synthesis an audio file from the CSM data|
+|`csm_encoding.ipynb`|Audio to CSM data converter.<br>Reads an audio file and generates a CSM data file.|
+|`csm_synthesis.ipynb`|CSM synthesizer.<br>Reads a CSM data file and synthesis an audio file from the CSM data|
 
 ### Audio samples:
 
